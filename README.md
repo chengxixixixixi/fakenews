@@ -1,2 +1,1 @@
-# fakenews
-by 贪吃蛇小组
+# fakenews during COVID
